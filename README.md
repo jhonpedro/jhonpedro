@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 
 - 🏫 Now i'm studying Analysis and system development at Federal Institute Goiano - Brazil
-- 📚 I’m currently learning about Clean Architecture, Node and React js and specially JavaScript 
+- 📚 I’m currently learning about Docker, Node and React js and specially JavaScript 
 - 📫 How to reach me: My DM's in twitter are open so, send me a message 😄🤜
