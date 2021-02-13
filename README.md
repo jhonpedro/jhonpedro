@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 🏫 Now i'm studying Analysis and system development at Federal Institute Goiano - Brazil
 - 📚 I’m currently learning about Docker, Node and React js and specially JavaScript 
-- 📫 How to reach me: My DM's in twitter are open so, send me a message 😄🤜
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> 😄🤜
