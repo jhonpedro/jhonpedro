@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> 😄🤜
 
 <div style="display: flex; justify-content: center;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github.com/anuraghazra/github-readme-stats)
 </div>
