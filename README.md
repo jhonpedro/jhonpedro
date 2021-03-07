@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning about Docker, Node and React js and specially JavaScript 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> 😄🤜
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: flex; justify-content: center" markdown="1" > 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
