@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🏫 Now i'm studying Analysis and system development at Federal Institute Goiano - Brazil
+- 🏫 Now i'm studying Analysis and System Development at Federal Institute Goiano - Brazil
 - 📚 I’m currently learning about Python, Flask, Docker, Node and React js and specially JavaScript 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> 😄🤜
 
