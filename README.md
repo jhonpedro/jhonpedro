@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🏫 Now i'm studying Analysis and System Development at Federal Institute Goiano - Brazil
 - 📚 I’m currently learning about Python, Flask, Docker, Node and React js and specially JavaScript 
-- 📫 How to reach me? Try <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
+- 📫 How to reach me? Try my <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpedro&layout=compact&hide=EJS&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
