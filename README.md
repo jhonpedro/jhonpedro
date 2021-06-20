@@ -1,5 +1,5 @@
 
-# Hi there, i'm João 👋👨‍💻
+# Hello, i'm João 👋👨‍💻
 
 <!--
 **jhonpedro/jhonpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
