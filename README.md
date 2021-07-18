@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🏢 Intern at Luby Software.
 - 📫 How to reach me? Try my <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
 
-<div style="display: flex; justify-content: center; margin-top: 20px">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpedro&layout=compact&hide=EJS&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
