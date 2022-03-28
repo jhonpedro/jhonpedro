@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   - I plan to study about non-relational databases too (like MongoDB or DynamoDB), in my whole programming path I have worked only with relational ones, and I think that I have to know the differences and learn when to choose each one.
 
-- 🏢 Intern at Luby Software.
+- 🏢 Fullstack Software Developer at Luby Software.
 - 📫 How to reach me? Try my <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
 
 <div align="center">
