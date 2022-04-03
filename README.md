@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🏫 Undergraduate in Analysis and System Development at Federal Institute Goiano - Brazil
 - 📚
 
-  - I am currently learning about NodeJS, ReactJS, Serverless, Clean Architecture, GraphQL, Docker and specially JavaScript. In general I like the most of back-end development, but I can handle a task in front-end.
+  - I am currently learning about NodeJS, ReactJS, Serverless, Clean Architecture, GraphQL, Docker and specially JavaScript. In general I like the most of back-end development, but I can handle any task in front-end too.
 
   - I plan to study about non-relational databases too (like MongoDB or DynamoDB), in my whole programming path I have worked only with relational ones, and I think that I have to know the differences and learn when to choose each one.
 
