@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - I am currently learning about NodeJS, ReactJS, Serverless, Clean Architecture, GraphQL, Docker and specially JavaScript. In general I like the most of back-end development, but I can handle any task in front-end too. I'm studying about functional programming too.
 
 - 🏢 Fullstack Software Developer at Luby Software.
-- 📫 How to reach me? Try my <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barros-ferreira-91457a204/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
+- 📫 How to reach me? Try my <a href="https://www.linkedin.com/in/jhonpedro/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
 
 <div align="center">
 
