@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 Graduated in Analysis and System Development
-- 📚
-
-  - I am currently learning about NodeJS, ReactJS, Serverless, Clean Architecture, GraphQL, Docker and specially JavaScript. In general I like the most of back-end development, but I can handle any task in front-end too. I'm studying about functional programming too.
+- 📚 I am currently learning about Types, Programming languagues, Golang, NodeJS, ReactJS, Clean Architecture and Docker. In general I like the most of back-end development, but I can handle any task in front-end too. I'm studying about functional programming too.
 
 - 🏢 Software Developer at Mettle Studio.
 - 📫 How to reach me? Try my <a href="https://www.linkedin.com/in/jhonpedro/" target="_blank" >Linkedin</a> or my E-mail: pedrobarros2010@gmail.com
